@@ -1,0 +1,17 @@
+
+1.swape two no without third variabel
+2. grade system
+3.leap year 
+4.right a program to check a no wheater it is less than 100 and greater than 50 if true than print no between 50 and 100
+5.right a code to check wheather is > 0 but <10 and even
+6.write a program to print my section is best infinite
+7.write a program to print value from 1 to 10
+8.write a program to print value 10 to 1 
+9.write a java program to print a factorial of a no using while
+10. write a program to print a table using while 
+11. write a program to take a input from user add them until he give negative value
+12.write a program to print gla is best
+13.  write a program to print 1 to 10 using do while
+14.  write a program to print 10 and 20 using  nested do while  
+wrire a program to print a submission of 1 to 100 using so while
+if else statement, nested if,while loop,do while,nested do while, switch case,for loop

@@ -1,0 +1,2 @@
+right a program to check a no wheater it is less than 100 and greater than 50 if true than print no between 50 and 100
+right a code to check wheather is > 0 but <10 and even
